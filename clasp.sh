@@ -3,7 +3,7 @@
 # clasp.sh - Command Line Argument Spec Parser for Bash
 #
 # Version: 1.0
-# Last Updated: 2025-06-02 # (Based on interaction context)
+# Last Updated: 2025-06-02
 #
 # Features:
 #   - Parses long options (--option), short options (-o), and combined short options (-xyz).
